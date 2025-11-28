@@ -1,5 +1,6 @@
 # 🍲 Resepku: Paspor Kuliner Digital Anda 🌍
 
+[![GitHub License](https://img.shields.io/badge/License-MIT-4169E1?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://developer.android.com/)
 [![Tech Stack](https://img.shields.io/badge/UI_Framework-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose)](https://developer.android.com/jetpack/compose)
 [![API](https://img.shields.io/badge/Data_Source-TheMealDB-FF5733?style=for-the-badge&logo=rss)](https://www.themealdb.com/api.php)
@@ -30,13 +31,13 @@ Kami menggunakan tata letak *grid* yang rapi untuk memamerkan antarmuka pengguna
 
 | Mode Terang | Mode Gelap | Isi Resep |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/15d54349-3fba-4113-b3ca-c85a2c7976e6" width="280" alt="Tampilan Beranda Mode Terang"/> | <img src="https://github.com/user-attachments/assets/8a423a1d-2b83-40eb-a314-fa130aca2bd6" width="280" alt="Tampilan Beranda Mode Gelap"/> | <img src="https://github.com/user-attachments/assets/4af46b28-3c3e-429a-87af-bb49d0656af6" width="280" alt="Tampilan Isi Resep"/> |
+| <img src="![modeTerang](https://github.com/user-attachments/assets/ab745ed2-3e5f-4fd4-a6db-2f7025a288f3)" width="280" alt="Tampilan Beranda Mode Terang"/> | <img src="![modeGelap](https://github.com/user-attachments/assets/0dfa48a3-d203-4615-b014-8d82cd66f6a3)" width="280" alt="Tampilan Beranda Mode Gelap"/> | <img src="![isiResep](https://github.com/user-attachments/assets/c21d7c39-3a3a-4f95-aba8-c5862ffd73e2)" width="280" alt="Tampilan Isi Resep"/> |
 
 ### Tampilan Landscape
 
 | Landscape Terang | Landscape Gelap | Landscape Isi Resep |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/85504681-84bc-4f1e-8238-7a86ac1060d3" width="300" alt="Tampilan Landscape Terang"/> | <img src="https://github.com/user-attachments/assets/4d4d73f0-2126-4c5b-9991-a98bbdbe3394" width="300" alt="Tampilan Landscape Gelap"/> | <img src="https://github.com/user-attachments/assets/c1f74167-90ac-4233-af84-a0f4e13cd39b" width="300" alt="Tampilan Landscape Isi Resep"/> |
+| <img src="![landTerang](https://github.com/user-attachments/assets/6ab1aaca-acef-4d6e-8424-7323110540a7)" width="300" alt="Tampilan Landscape Terang"/> | <img src="![landGelap](https://github.com/user-attachments/assets/ca7863ff-70e8-4918-ae18-2296a58afbda)" width="300" alt="Tampilan Landscape Gelap"/> | <img src="![landIsiResep](https://github.com/user-attachments/assets/1a0104e3-18fc-45db-afed-e051227c965a)" width="300" alt="Tampilan Landscape Isi Resep"/> |
 
 ---
 
@@ -101,13 +102,5 @@ Kami sangat menghargai kontribusi dari komunitas!
 4.  *Push* ke *branch* (`git push origin feature/nama-fitur-baru`).
 5.  Buka **Pull Request** ke *branch* `main`.
 
----
-
-## 📜 Lisensi
-
-Proyek ini didistribusikan di bawah **MIT License**.
-
-[Baca Lisensi Selengkapnya](LICENSE)
-
 ***
-> Dibuat dengan semangat kuliner oleh **[Nama Anda]** | &copy; 2024
+> Dibuat dengan semangat kuliner oleh **Dinda Aulia** | &copy; 2026
