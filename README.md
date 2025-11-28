@@ -31,18 +31,13 @@ Kami menggunakan tata letak *grid* yang rapi untuk memamerkan antarmuka pengguna
 
 | Mode Terang | Mode Gelap | Isi Resep |
 | :---: | :---: | :---: |
-| <img src="![681c7c52-dc80-4d06-a243-867e4a9cd77f](https://github.com/user-attachments/assets/3d7b45bb-d3af-4f0b-81d6-3dd4e98eba80)
-" width="280" alt="Tampilan Beranda Mode Terang"/> | <img src="![c6ea1c78-7575-4037-9332-17a79c23d789](https://github.com/user-attachments/assets/0ebf70a6-4819-4316-a0b3-1f7141219d86)
-" width="280" alt="Tampilan Beranda Mode Gelap"/> | <img src="![93733802-1380-4d67-b51d-61c081bdd17f](https://github.com/user-attachments/assets/7b42a339-6058-44fc-90c8-83ae2fb5b3f1)
-" width="280" alt="Tampilan Isi Resep"/> |
+| <img src="![modeTerang](https://github.com/user-attachments/assets/ab745ed2-3e5f-4fd4-a6db-2f7025a288f3)" width="280" alt="Tampilan Beranda Mode Terang"/> | <img src="![modeGelap](https://github.com/user-attachments/assets/0dfa48a3-d203-4615-b014-8d82cd66f6a3)" width="280" alt="Tampilan Beranda Mode Gelap"/> | <img src="![isiResep](https://github.com/user-attachments/assets/c21d7c39-3a3a-4f95-aba8-c5862ffd73e2)" width="280" alt="Tampilan Isi Resep"/> |
 
 ### Tampilan Landscape
 
 | Landscape Terang | Landscape Gelap | Landscape Isi Resep |
 | :---: | :---: | :---: |
-| <img src="" width="300" alt="Tampilan Landscape Terang"/> | <img src="<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/35c1e2f2-d9c9-47cc-b3f5-336ee2365e50" />
-" width="300" alt="Tampilan Landscape Gelap"/> | <img src="<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/a6f0673e-e9d2-4e37-ba02-b7e4ffa7e30c" />
-" width="300" alt="Tampilan Landscape Isi Resep"/> |
+| <img src="![landTerang](https://github.com/user-attachments/assets/6ab1aaca-acef-4d6e-8424-7323110540a7)" width="300" alt="Tampilan Landscape Terang"/> | <img src="![landGelap](https://github.com/user-attachments/assets/ca7863ff-70e8-4918-ae18-2296a58afbda)" width="300" alt="Tampilan Landscape Gelap"/> | <img src="![landIsiResep](https://github.com/user-attachments/assets/1a0104e3-18fc-45db-afed-e051227c965a)" width="300" alt="Tampilan Landscape Isi Resep"/> |
 
 ---
 
