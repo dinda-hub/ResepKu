@@ -29,9 +29,9 @@ Desain yang bersih dengan dukungan mode gelap/terang membuat Resepku nyaman digu
 
 Kami menggunakan tata letak *grid* yang rapi untuk memamerkan antarmuka pengguna (atur `width` sesuai keinginan, misalnya 250-300px).
 
-| Mode Terang | Mode Gelap | Detail Kartu |
-| :---: | :---: | :---: |
-| <img src="<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/f47c5829-be9b-4780-894f-8506550e4909"/>" width="280" alt="Tampilan Beranda Mode Terang"/> | <img src="<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/925953d2-c736-435f-85b1-456a59209314" />
+| Mode Terang | Mode Gelap |
+| :---: | :---: |
+| <img src="blob:https://web.whatsapp.com/0c398b08-89c7-4538-8f84-0bbbb541887d" width="280" alt="Tampilan Beranda Mode Terang"/> | <img src="<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/925953d2-c736-435f-85b1-456a59209314" />
 " width="280" alt="Tampilan Beranda Mode Gelap"/> | <img src="<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/66fa4b8e-10b9-435d-a276-821403a3ab6d" />
 " width="280" alt="Tampilan Isi Resep"/> |
 
