@@ -29,18 +29,17 @@ Desain yang bersih dengan dukungan mode gelap/terang membuat Resepku nyaman digu
 
 Kami menggunakan tata letak *grid* yang rapi untuk memamerkan antarmuka pengguna (atur `width` sesuai keinginan, misalnya 250-300px).
 
-| Mode Terang | Mode Gelap |
-| :---: | :---: |
+| Mode Terang | Mode Gelap | Isi Resep |
+| :---: | :---: | :---: |
 | <img src="blob:https://web.whatsapp.com/0c398b08-89c7-4538-8f84-0bbbb541887d" width="280" alt="Tampilan Beranda Mode Terang"/> | <img src="<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/925953d2-c736-435f-85b1-456a59209314" />
 " width="280" alt="Tampilan Beranda Mode Gelap"/> | <img src="<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/66fa4b8e-10b9-435d-a276-821403a3ab6d" />
 " width="280" alt="Tampilan Isi Resep"/> |
 
 ### Tampilan Landscape
 
-| Landscape 1 | Landscape 2 | Landscape 3 |
+| Landscape Terang | Landscape Gelap | Landscape Isi Resep |
 | :---: | :---: | :---: |
-| <img src="<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/afd32333-9f3d-48e9-9aa9-43fc05a52905" />
-" width="300" alt="Tampilan Landscape Terang"/> | <img src="<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/35c1e2f2-d9c9-47cc-b3f5-336ee2365e50" />
+| <img src="" width="300" alt="Tampilan Landscape Terang"/> | <img src="<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/35c1e2f2-d9c9-47cc-b3f5-336ee2365e50" />
 " width="300" alt="Tampilan Landscape Gelap"/> | <img src="<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/a6f0673e-e9d2-4e37-ba02-b7e4ffa7e30c" />
 " width="300" alt="Tampilan Landscape Isi Resep"/> |
 
