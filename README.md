@@ -1,4 +1,4 @@
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/35e1dc56-ad7e-4e23-8c9d-215506c5453f" />✨ Selamat Datang di Resepku
+✨ Selamat Datang di Resepku
 Resepku adalah aplikasi Android modern yang dikembangkan dengan fokus pada pengalaman pengguna yang cepat dan elegan. Kami menghilangkan kerumitan memasak dengan menyajikan ribuan resep autentik dari seluruh dunia, semuanya didukung oleh sumber data terpercaya TheMealDB API.
 
 Aplikasi ini adalah demonstrasi best practices pengembangan Android masa kini, dibangun 100% menggunakan Jetpack Compose untuk antarmuka yang reaktif dan indah.
@@ -8,8 +8,15 @@ Desain yang bersih memudahkan Anda untuk fokus pada hal yang paling penting: res
 
 Beranda & Daftar Resep
 Potrait
-![44280438-d0e1-4520-95f2-cf9ab61f5f83](https://github.com/user-attachments/assets/f100e5c1-5948-4b0e-b12c-25eccb153294)
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/fb3cb9be-3352-4c33-9565-0da1780c2410" />
 
-![f21519a5-aef1-4cba-b930-326b62ff70a5](https://github.com/user-attachments/assets/f14521ab-74d3-429c-bd1b-105febc0379f)
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/57efd167-e4c0-4239-82ae-d8c44a880423" />
 
 <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/9a680631-dd00-4deb-849f-3d7705f28872" />
+
+Landscape
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/26c2b22f-dfa3-496a-9087-f445e3df793b" />
+
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/19e120ef-d9d3-4a73-936d-c5384ba07ba8" />
+
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/4e9b86c8-c804-4a78-b9f9-04fab510dee0" />
