@@ -31,8 +31,9 @@ Kami menggunakan tata letak *grid* yang rapi untuk memamerkan antarmuka pengguna
 
 | Mode Terang | Mode Gelap | Isi Resep |
 | :---: | :---: | :---: |
-| <img src="blob:https://web.whatsapp.com/0c398b08-89c7-4538-8f84-0bbbb541887d" width="280" alt="Tampilan Beranda Mode Terang"/> | <img src="<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/925953d2-c736-435f-85b1-456a59209314" />
-" width="280" alt="Tampilan Beranda Mode Gelap"/> | <img src="<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/66fa4b8e-10b9-435d-a276-821403a3ab6d" />
+| <img src="![681c7c52-dc80-4d06-a243-867e4a9cd77f](https://github.com/user-attachments/assets/3d7b45bb-d3af-4f0b-81d6-3dd4e98eba80)
+" width="280" alt="Tampilan Beranda Mode Terang"/> | <img src="![c6ea1c78-7575-4037-9332-17a79c23d789](https://github.com/user-attachments/assets/0ebf70a6-4819-4316-a0b3-1f7141219d86)
+" width="280" alt="Tampilan Beranda Mode Gelap"/> | <img src="![93733802-1380-4d67-b51d-61c081bdd17f](https://github.com/user-attachments/assets/7b42a339-6058-44fc-90c8-83ae2fb5b3f1)
 " width="280" alt="Tampilan Isi Resep"/> |
 
 ### Tampilan Landscape
