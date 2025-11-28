@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="taste_gallery_title">Taste Gallery</string>
+    <string name="search_hint">Search...</string>
+    <string name="category_all">All</string>
+    <string name="category_main_dish">Main Dish</string>
+    <string name="category_side_dish">Side Dish</string>
+    <string name="category_vegetables">Vegetables</string>
+    <string name="category_drinks">Drinks</string>
+    <string name="category_dessert">Dessert</string>
+    <string name="detail_ingredients">Ingredients 🥕</string>
+    <string name="detail_instructions">Instructions 🧑‍🍳</string>
+    <string name="detail_not_found">Recipe details not found.</string>
+    <string name="loading_error">Failed to load data:</string>
+    <string name="no_recipes_found">No recipes found.</string>
+    <string name="back_button">Back</string>
+    <string name="toggle_theme_light">Switch to Dark</string>
+    <string name="toggle_theme_dark">Switch to Light</string>
+    <string name="language_button">Change Language (ID)</string>
+</resources>
