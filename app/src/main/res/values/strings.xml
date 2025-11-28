@@ -9,7 +9,7 @@
     <string name="category_drinks">Minuman</string>
     <string name="category_dessert">Dessert</string>
     <string name="detail_ingredients">Bahan-bahan 🥕</string>
-    <string name="detail_instructions">Cara Membuat 🧑‍🍳</string>
+    <string name="detail_instructions">Cara Membuat 🍳</string>
     <string name="detail_not_found">Detail resep tidak ditemukan.</string>
     <string name="loading_error">Gagal memuat data:</string>
     <string name="no_recipes_found">Tidak ada resep ditemukan.</string>
